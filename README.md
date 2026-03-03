@@ -94,7 +94,7 @@ Single-policy holders responded more (15.87%) but have a 63% lower CLV than mult
 
 ![Performance & Product Characteristics](images/Performance-productcharacteristics.jpeg)
 
-
+###Customer value analysis
 ![Customer Value Analysis](images/Customer-Value-Analysis.jpeg)
 
 
