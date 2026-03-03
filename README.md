@@ -88,17 +88,17 @@ Single-policy holders responded more (15.87%) but have a 63% lower CLV than mult
 5.	Implement structured service-recovery outreach for customers with complaints to prevent churn and leverage their engagement.
 
 ## Dashboard Preview
-### Performance & Demographics
-![Performance & Demographics](images/Performance-demographics.jpg)
 
-### Performance and Product Characteristics
-![Performance & Product Characteristics](images/Performance-productcharacteristics.jpg)
+![Performance & Demographics](images/Performance-demographics.jpeg)
 
-### Customer Value Analysis
-![Customer Value Analysis](images/Customer-Value-Analysis.jpg)
 
-### Churn Risk
-![Churn Risk](images/Churn-risk.jpg)
+![Performance & Product Characteristics](images/Performance-productcharacteristics.jpeg)
 
-### Claims Risk
-![Claims Risk](images/Claims-risk.jpg)
+
+![Customer Value Analysis](images/Customer-Value-Analysis.jpeg)
+
+
+![Churn Risk](images/Churn-risk.jpeg)
+
+
+![Claims Risk](images/Claims-risk.jpeg)
